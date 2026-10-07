@@ -2,9 +2,7 @@
 
 A quick word-and-character estimate for packing a prompt into a context window you specify.
 
-## Run
-
-Open `index.html` in a modern browser. HTML, CSS, and JavaScript are all in that file. No server, packages, internet connection, API key, build step, or downloaded model is required.
+https://raeeskasim1.github.io/prompt-budget-desk/
 
 ## Try it
 
